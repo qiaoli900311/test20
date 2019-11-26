@@ -1,0 +1,19 @@
+{
+  "appKey": "YwXIBDpcEqeqhYKbsAwTlbRSdcQ1xpHL",
+  "appSecret": "zQgM3aQJ3y28dlameFIVqQ8ukBZjm6nD",
+  "projectId": "1774665ba080ee284e97d04138068438",
+  "id": 147,
+  "name": "test-ql",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "https://github.com/qiaoli900311/test20.git",
+  "git": {
+    "url": "https://github.com/qiaoli900311/test20.git",
+    "isPrivate": 0,
+    "username": "qiaoli900311",
+    "password": "48111400qiaoli"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
